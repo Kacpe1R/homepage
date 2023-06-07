@@ -7,8 +7,9 @@ html {
 }
 
 .body {
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 0 auto;
     font-family: 'Lato', sans-serif;
     padding: 0px;
+    background-color: rgb(209, 234, 255);
 }

@@ -1,11 +1,19 @@
+.header {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+}
+
 .header__imageFace {
     object-fit: cover;
     width: 100%;
     max-width: 300px;
     height: 300px;
-    margin: 30px;
+    margin: 0px 20px;
 }
 
 .header__name {
-    margin: 0px 75px;
+    margin-top: 60px;
+    margin-left: 30px;
+    font-size: 40px;
 }
