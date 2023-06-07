@@ -1,0 +1,11 @@
+.header__imageFace {
+    object-fit: cover;
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+    margin: 30px;
+}
+
+.header__name {
+    margin: 0px 75px;
+}
