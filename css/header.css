@@ -1,6 +1,5 @@
 .header {
-    display: flex;
-    flex-direction: row;
+    margin: 0 auto;
 }
 
 .header__imageFace {
@@ -13,11 +12,10 @@
 }
 
 .header__name {
-    margin-top: 100px;
-    margin-left: 30px;
+    margin-top: 10px;
     font-size: 20px;
-    max-width: 620px;
     width: 100%;
+    text-align: left;
 }
 
 .header__nameSize {

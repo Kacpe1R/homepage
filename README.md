@@ -3,7 +3,15 @@
 https://kacpe1r.github.io/homepage/
 
 ## Description
-Hello, this is my new project, a website describing me. 
+Hello, this is my new project, a website about me. 
+You can find on this page:
+⇒ My photo
+⇒ A short description about me
+⇒ My skills
+⇒ My hobbies
+⇒ What I want to learn next
+⇒ My projects
+⇒ You will also find my contact information
 
 Technical work is still in progress...
 
@@ -13,3 +21,4 @@ Technical work is still in progress...
 - BEM convention
 - Normalize CSS
 - GIT
+- Grid
