@@ -14,3 +14,8 @@ html {
     background-color: #d1eaff;
     scroll-behavior: smooth;
 }
+
+.body__backgroundDark {
+    background-color: #252525;
+    color: white;
+}

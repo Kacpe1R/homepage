@@ -1,0 +1,8 @@
+.body__button {
+    margin-left: 960px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: teal;
+    color: white;
+    text-decoration: none;
+}
