@@ -3,15 +3,15 @@
 https://kacpe1r.github.io/homepage/
 
 ## Description
-Hello, this is my new project, a website about me. 
+Hello, this is my new project, a website about me.<br>
 You can find on this page:<br>
 ⇒ My photo<br>
-⇒ A short description about me
-⇒ My skills
-⇒ My hobbies
-⇒ What I want to learn next
-⇒ My projects
-⇒ You will also find my contact information
+⇒ A short description about me<br>
+⇒ My skills<br>
+⇒ My hobbies<br>
+⇒ What I want to learn next<br>
+⇒ My projects<br>
+⇒ You will also find my contact information<br>
 
 Technical work is still in progress...
 
