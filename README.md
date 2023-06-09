@@ -4,8 +4,8 @@ https://kacpe1r.github.io/homepage/
 
 ## Description
 Hello, this is my new project, a website about me. 
-You can find on this page:
-⇒ My photo
+You can find on this page:<br>
+⇒ My photo<br>
 ⇒ A short description about me
 ⇒ My skills
 ⇒ My hobbies
