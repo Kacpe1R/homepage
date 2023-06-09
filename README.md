@@ -2,6 +2,8 @@
 ## Demo
 https://kacpe1r.github.io/homepage/
 
+![homepage](images/presentation.gif)
+
 ## Description
 Hello, this is my new project, a website about me.<br>
 You can find on this page:<br>
