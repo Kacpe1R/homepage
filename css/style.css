@@ -12,4 +12,5 @@ html {
     font-family: 'Lato', sans-serif;
     padding: 0px;
     background-color: #d1eaff;
+    scroll-behavior: smooth;
 }

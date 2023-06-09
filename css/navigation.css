@@ -1,21 +1,27 @@
 .navigation {
-    margin: 0px;
-    text-align: left;
-    width: 100%;
+    text-align: center;
+    margin: 15px 25px;
 }
 
 .navigation__list {
     list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    scroll-snap-align:inherit;
 }
 
 .navigation__listButton {
+    display: flex;
+    flex-direction: row;
     text-decoration: none;
     background-color: teal;
     color: white;
-    padding: 10px;
-    margin: 10px;
+    padding: 10px 10px;
+    margin: 5px;
+    text-align: center;
     border-radius: 5%;
-    position: relative;
+    
 }
 
 .navigation__listButton:hover {

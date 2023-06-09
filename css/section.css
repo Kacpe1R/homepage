@@ -34,3 +34,13 @@
     padding: 5px;
     color: teal;
 }
+
+.section__listLink {
+    color: rgb(0, 75, 75);
+    text-decoration: none;
+}
+
+.section__listLink:hover {
+    color: rgb(0, 161, 161);
+    border-bottom: 1 solid;
+}
