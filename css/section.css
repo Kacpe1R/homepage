@@ -48,11 +48,6 @@
     color: White;
 }
 
-.textColor__darkMode:hover {
-    color: rgb(58, 58, 58);
-}
-
-
 .section__background {
     background-color: rgb(66, 66, 66);
 }
