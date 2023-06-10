@@ -7,7 +7,7 @@
         const selection2 = document.querySelector(".js-selection2");
         const selection3 = document.querySelector(".js-selection3");
         const selection4 = document.querySelector(".js-selection4");
-        const colorName = document.querySelector(".js-colorName");
+        const textChange = document.querySelector(".js-textChange");
 
         body.classList.toggle("body__backgroundDark");
         textColor.classList.toggle("textColor__darkMode");
@@ -17,13 +17,12 @@
         selection3.classList.toggle("section__background");
         selection4.classList.toggle("section__background");
 
-        colorName.innerText = body.classList.contains(
+        textChange.innerText = body.classList.contains(
             "body__backgroundDark"
         )
             ? "( OFF )"
             : "( ON )";
     };
-
     const init = () => {
         const backgroundButton = document.querySelector(".js-backgroundButton");
         backgroundButton.addEventListener("click", onChangeThemeclick);
