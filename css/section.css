@@ -1,5 +1,4 @@
 .section {
-    margin-bottom: 50px;
     background-color: rgb(223, 223, 223);
     margin: 40px 30px;
     padding-top: 1px;
@@ -36,11 +35,24 @@
 }
 
 .section__listLink {
-    color: rgb(0, 75, 75);
+    color: teal;
     text-decoration: none;
 }
 
 .section__listLink:hover {
-    color: rgb(0, 161, 161);
+    color: rgb(0, 60, 60);
     border-bottom: 1 solid;
+}
+
+.textColor__darkMode {
+    color: White;
+}
+
+.textColor__darkMode:hover {
+    color: rgb(58, 58, 58);
+}
+
+
+.section__background {
+    background-color: rgb(66, 66, 66);
 }

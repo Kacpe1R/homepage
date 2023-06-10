@@ -4,11 +4,11 @@
 }
 
 .navigation__list {
-    list-style: none;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
-    scroll-snap-align:inherit;
+    list-style: none;
+    margin-left: 600px;
+    margin-top: 20px;
 }
 
 .navigation__listButton {
@@ -17,11 +17,12 @@
     text-decoration: none;
     background-color: teal;
     color: white;
+    margin-left: 10px;
+    margin-top: 10px;
     padding: 10px 10px;
-    margin: 5px;
     text-align: center;
     border-radius: 5%;
-    
+
 }
 
 .navigation__listButton:hover {
@@ -32,5 +33,6 @@
 
 .navigation__listButton:active {
     color: black;
-    box-shadow: 0 0 5px rgb(0, 0, 0);;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    ;
 }
