@@ -1,8 +1,23 @@
 .navigation {
     text-align: center;
-    margin: 15px 25px;
+    margin: 15px -200px;
     display: flex;
-    flex-direction: row;
+    justify-content: flex-end;
+}
+
+@media(max-width: 767px) {
+    .nav {
+        margin-left: 10px;
+    }
+}
+
+@media(max-width: 767px) {
+    .button {
+        flex-basis: 34%;
+        flex-grow: 1;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
 }
 
 .navigation__list {

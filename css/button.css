@@ -9,6 +9,19 @@
     border: none;
 }
 
+@media(max-width: 1003px) {
+    .body__button {
+        min-width: 140px;
+        margin-right: 30px;
+    }
+}
+
+@media(max-width: 767px) {
+    .body__button {
+        visibility: hidden;
+    }
+}
+
 .body__button:hover {
     color: rgb(0, 0, 0);
     border-bottom: 1 solid;
