@@ -2,7 +2,7 @@
     text-align: center;
     margin: 15px 25px;
     display: flex;
-    justify-content: flex-end;
+    flex-direction: row;
 }
 
 .navigation__list {
