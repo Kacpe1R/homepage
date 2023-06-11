@@ -1,6 +1,6 @@
 .navigation {
     text-align: center;
-    margin: 15px;
+    margin: 15px 25px;
     display: flex;
     justify-content: flex-end;
 }
