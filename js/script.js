@@ -7,7 +7,7 @@
         const selection2 = document.querySelector(".js-selection2");
         const selection3 = document.querySelector(".js-selection3");
         const selection4 = document.querySelector(".js-selection4");
-        const textChange = document.querySelector(".js-textChange");
+        const textChange = document.querySelector(".js-textColorChange");
 
         body.classList.toggle("body__backgroundDark");
         textColor.classList.toggle("textColor__darkMode");
