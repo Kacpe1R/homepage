@@ -18,7 +18,7 @@
 .section__list {
     display: grid;
     padding: 0px 0px 30px 40px;
-    grid-template-columns: 1fr;
+    grid-template-columns: 350px 350px 350px;
     line-height: 20px;
     font-weight: 400px;
 }
