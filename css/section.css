@@ -2,7 +2,8 @@
     background-color: rgb(223, 223, 223);
     margin: 40px 30px;
     padding-top: 1px;
-    box-shadow: 0 0 6px black;
+    box-shadow: 0 0 8px black;
+    border-radius: 15px;
 }
 
 .section__article {
