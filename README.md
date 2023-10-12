@@ -15,7 +15,6 @@ You can find on this page:<br>
 ⇒ My projects<br>
 ⇒ You will also find my contact information<br>
 
-Technical work is still in progress...
 
 ## Technology used
 - HTML
